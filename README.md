@@ -2,7 +2,6 @@
 Hello! I'm Gustavo Maltez! 
 
 👉 Full-stack software developer.<br>
-👉 Working at SOAP Health.<br>
 👉 In love with software development.<br>
 📌 Reach me on [LinkedIn](https://www.linkedin.com/in/gustavommaltez/).
 
