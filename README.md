@@ -10,10 +10,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gustavomaltez/update-profile-stats/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
 <br/>
 
 <div align="center">
