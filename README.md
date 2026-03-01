@@ -10,8 +10,6 @@
 
 <br/>
 
-<br/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/gustavomaltez/update-profile-stats/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
